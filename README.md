@@ -6,7 +6,7 @@ Repository này bao gồm chương trình phục vụ phân tích dữ liệu c�
 ## Kiến trúc Data Warehouse
 ![Kiến_trúc_Data_Warehouse.png](images%2FKiến_trúc_Data_Warehouse.png)
 
-## Data Pipeline
+## System Flow
 ![Data_Pipeline.png](images%2FData_Pipeline.png)
 
 ## System Components
